@@ -1,13 +1,13 @@
-# 🖼️ Image Processing with OpenCV
+# Image Processing
 
 This folder contains fundamental **image processing techniques** implemented using **OpenCV** and **Python**.  
 Each script demonstrates a specific operation, visualizes the results, and saves the output for easy comparison.
 
 ---
 
-## 📂 Techniques Implemented
+## Techniques Implemented
 
-### 🔹 1. Grayscale Conversion
+### 1. Grayscale Conversion
 Converts a color image into grayscale format (intensity-based representation).  
 
 **Result:**  
@@ -15,7 +15,7 @@ Converts a color image into grayscale format (intensity-based representation).
 
 ---
 
-### 🔹 2. Histogram Equalization
+### 2. Histogram Equalization
 Enhances image contrast by spreading out the intensity values across the histogram.  
 
 **Result:**  
@@ -23,7 +23,7 @@ Enhances image contrast by spreading out the intensity values across the histogr
 
 ---
 
-### 🔹 3. Edge Detection
+### 3. Edge Detection
 Detects object boundaries using multiple operators: **Sobel**, **Laplacian**, and **Canny**.  
 
 **Result:**  
@@ -31,7 +31,7 @@ Detects object boundaries using multiple operators: **Sobel**, **Laplacian**, an
 
 ---
 
-### 🔹 4. Thresholding
+### 4. Thresholding
 Segments an image into foreground and background using:  
 - Simple Thresholding  
 - Adaptive Thresholding  
@@ -41,7 +41,7 @@ Segments an image into foreground and background using:
 
 ---
 
-### 🔹 5. Image Blurring
+### 5. Image Blurring
 Smooths images and reduces noise using different filters:  
 - Average Blurring  
 - Gaussian Blurring  
@@ -53,7 +53,7 @@ Smooths images and reduces noise using different filters:
 
 ---
 
-### 🔹 6. Resize & Rotate
+### 6. Resize & Rotate
 Applies basic geometric transformations such as **resizing** (scale up/down) and **rotation**.  
 
 **Result:**  
