@@ -11,7 +11,7 @@ Each script demonstrates a specific operation with visualization and saves the r
 <img width="1000" height="600" alt="histogram_equalization" src="https://github.com/user-attachments/assets/da6d367b-5ce3-4678-8d00-d251e08c9a40" />
 
 - Edge Detection → Detects edges using Sobel, Laplacian, and Canny operators.
-<img width="500" height="300" alt="edge_detection" src="https://github.com/user-attachments/assets/e6d46576-857b-4873-af88-aef6fbc74bc1" />
+<img width="100" height="600" alt="edge_detection" src="https://github.com/user-attachments/assets/e6d46576-857b-4873-af88-aef6fbc74bc1" />
   
 - Thresholding → Segments images using simple, adaptive, and Otsu’s thresholding.  
 - Image Blurring → Smooths images using Average, Gaussian, Median, and Bilateral filtering.  
