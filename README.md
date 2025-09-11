@@ -14,4 +14,6 @@ Each script demonstrates a specific operation with visualization and saves the r
 
 <img width="200" height="200" alt="tmp0733r55v" src="https://github.com/user-attachments/assets/4ed4893c-f633-43c2-9dbc-11a77bb3ae6a" />
 <img width="200" height="200" alt="tmp0733r55v" src="https://github.com/user-attachments/assets/d8693b83-16bd-49cf-a4d2-d35e7c7217ed" />
+<img width="512" height="512" alt="tmp0733r55v" src="https://github.com/user-attachments/assets/bbf6ddd5-9927-4180-8215-4653aceeb370" />
+
 
