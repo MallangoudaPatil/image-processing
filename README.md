@@ -60,10 +60,3 @@ Applies basic geometric transformations such as **resizing** (scale up/down) and
 <img width="800" height="500" alt="Resize and Rotate" src="https://github.com/user-attachments/assets/f5dc77a2-86ae-4192-9a63-e818359198cd" />
 
 ---
-
-## ⚙️ Setup Instructions
-
-Install the required dependencies:
-
-```bash
-pip install opencv-python numpy matplotlib
