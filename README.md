@@ -18,11 +18,11 @@ Each script demonstrates a specific operation with visualization and saves the r
   
 - Thresholding → Segments images using simple, adaptive, and Otsu’s thresholding.  
 - Image Blurring → Smooths images using Average, Gaussian, Median, and Bilateral filtering.
-<img width="760" height="504" alt="image_blurring" src="https://github.com/user-attachments/assets/f5133b25-c0ed-4f9d-a7ca-83e2970d4221" />
+<img width="800" height="500" alt="image_blurring" src="https://github.com/user-attachments/assets/f5133b25-c0ed-4f9d-a7ca-83e2970d4221" />
 
   
 - Resize & Rotate → Demonstrates basic geometric transformations.
-<img width="1536" height="754" alt="image_rotate" src="https://github.com/user-attachments/assets/f5dc77a2-86ae-4192-9a63-e818359198cd" />
+<img width="800" height="500" alt="image_rotate" src="https://github.com/user-attachments/assets/f5dc77a2-86ae-4192-9a63-e818359198cd" />
 
 
 
